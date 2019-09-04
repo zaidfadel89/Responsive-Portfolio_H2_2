@@ -1,0 +1,24 @@
+/* jquery for Index 640px*/
+/* for iphone screen */
+@media screen and (min-width: 101px) and (max-width: 640px) {
+  * {
+    background-color: rgb(127, 127, 221);
+    color: aliceblue;
+    text-align: center;
+  }
+}
+@media screen and (min-width: 650px) and (max-width:979px){
+  *{background-color:red ;
+  
+  
+  }
+}
+@media screen and (min-width:980px) {
+  body{
+    background-color:rgb(51, 192, 51);
+  }
+
+----------------------------------------;
+.Contact22{
+  color: blue
+}
